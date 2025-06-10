@@ -1,0 +1,30 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    border-width: 0px;
+}
+
+.content {
+    background-color: rgb(253, 216, 170);
+    padding: 64px 64px;
+    width: 80%;
+    margin: 24px auto;
+    border-radius: 8px;
+    border-style: solid;
+    border-color:rgb(255, 183, 142);
+    border-width: 5px;
+}
+
+h1 {
+    margin-bottom: 16px;
+}
+
+ul {
+    margin-left: 16px;
+}
+
+li {
+    margin-bottom: 4px;
+}
